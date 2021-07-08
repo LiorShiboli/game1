@@ -1,2 +1,2 @@
 # game1
- game
+ a project designed to learn the basics of web design 
